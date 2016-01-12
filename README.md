@@ -1,2 +1,1 @@
-# github_checkpoint
-Github checkpoint assignment
+Merge pull request #1
